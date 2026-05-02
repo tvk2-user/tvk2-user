@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Tegra 👋
 
-<!--
-**tvk2-user/tvk2-user** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student from Spain
 
-Here are some ideas to get you started:
+💻 Python · HTML · CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Artificial Intelligence Student
+
+🧠 I enjoy problem-solving and tech
+
+🚀 Building skills to become a developer / AI engineer
+
+### GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tvk2-user&theme=rose)](https://git.io/streak-stats)
