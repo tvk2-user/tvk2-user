@@ -2,7 +2,7 @@
 
 🎓 Student from Spain
 
-💻 Python · HTML · CSS
+💻 Python 
 
 🤖 Artificial Intelligence Student
 
